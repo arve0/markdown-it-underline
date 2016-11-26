@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-underline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders _underline_ to <u>underline</u>",
   "main": "index.js",
   "scripts": {
