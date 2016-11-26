@@ -24,7 +24,7 @@ npm install markdown-it-underline
 ## Usage
 
 ```js
-const underline = require('./index.js');
+const underline = require('markdown-it-underline');
 const md = require('markdown-it')().use(underline);
 
 console.log(md.renderInline('_underline_ *emphasis*'));
